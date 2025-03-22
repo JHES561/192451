@@ -14,3 +14,7 @@
 - El cast a `(int)` es como maquillarle el sueldo a fin de mes: se ve bonito, pero no es real.
 - El buffer del `Scanner` es un campo minado: no lo limpias, explota.
 - Los nombres de las variables parecen iniciales de estudiantes reprobando lógica.
+
+DOCUMENTACION
+para crear un programa que cumpla con estas condiciones primero.
+1- crearia un apartado de
